@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="113255f5-7aab-4e81-bf33-cd4b4e9d2fdb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/lotus" beforeDir="false" afterPath="$PROJECT_DIR$/lotus" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lotus/cli/cmd.go" beforeDir="false" afterPath="$PROJECT_DIR$/lotus/cli/cmd.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lotus/cli/state.go" beforeDir="false" afterPath="$PROJECT_DIR$/lotus/cli/state.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lotus/cmd/lotus-gateway/api.go" beforeDir="false" afterPath="$PROJECT_DIR$/lotus/cmd/lotus-gateway/api.go" afterDir="false" />
@@ -69,7 +70,7 @@
         <entry file="file://$PROJECT_DIR$/lotus/cli/chain.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="56">
-              <caret line="90" column="25" lean-forward="true" selection-start-line="90" selection-start-column="25" selection-end-line="90" selection-end-column="25" />
+              <caret line="90" column="25" selection-start-line="90" selection-start-column="25" selection-end-line="90" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -78,7 +79,7 @@
         <entry file="file://$PROJECT_DIR$/lotus/cli/util/apiinfo.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+              <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -172,7 +173,7 @@
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -185,7 +186,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32913166" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32913166" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -218,14 +219,14 @@
     <entry file="file://$PROJECT_DIR$/lotus/cli/util/apiinfo.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="24" column="14" lean-forward="true" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lotus/cli/chain.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56">
-          <caret line="90" column="25" lean-forward="true" selection-start-line="90" selection-start-column="25" selection-end-line="90" selection-end-column="25" />
+          <caret line="90" column="25" selection-start-line="90" selection-start-column="25" selection-end-line="90" selection-end-column="25" />
         </state>
       </provider>
     </entry>
